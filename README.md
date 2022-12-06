@@ -1,4 +1,9 @@
 # PA_KB_B2_6_2020
+                                Kelompok B2_20_6
+                          Jihan Nur Azizah 2009106081 
+                        Muhammad Fachrul Rozy 2009106091 
+                          M.Sultan Naufal 2009106095
+
 import zipfile : untuk mengekstrak unzip
 import tensorflow as tf : untuk library mengolah machine learning
 import numpy as np : untuk operasi matematika yang lebih kompleks khusus nya untuk array/matrix
